@@ -79,4 +79,8 @@
   &__link:hover &__link-icon {
     transform: translateX(4px);
   }
+
+  &:hover &__image {
+    transform: scale(1.03);
+  }
 }
